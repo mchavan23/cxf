@@ -183,12 +183,6 @@
             <optional>true</optional>
         </dependency>
         <dependency>
-            <groupId>net.java.dev.msv</groupId>
-            <artifactId>msv-core</artifactId>
-            <optional>true</optional>
-            <scope>provided</scope>
-        </dependency>
-        <dependency>
             <groupId>org.springframework.osgi</groupId>
             <artifactId>spring-osgi-io</artifactId>
             <optional>true</optional>
